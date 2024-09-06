@@ -9,6 +9,8 @@ import MultiSelectOption from '../Components/MultiSelectOption.jsx'
 import FileUpload from '../Components/FileUpload.jsx'
 import SelectDate from '../Components/SelectDate.jsx'
 import SubmitButton from '../Components/SubmitButton.jsx'
+import mandirLOGO from "../public/assets/mandir2.png"
+import mandirTEXT from "../public/assets/MMtext.png"
 
 
 function App() {
@@ -17,8 +19,8 @@ function App() {
   return (
     <>
     <nav className=' bg-yellow-100 font-gilorySemiBold text-orange-700 h-14 flex justify-between px-24 items-center sticky top-0 z-50'> 
-      <div className='flex items-center'><img src="./src/assets/mandir2.png" className='h-10' alt="Mandir Manthan" /> UI Component Library</div>
-      <div className=''><img src="./src/assets/MMtext.png" className='h-10' alt="Mandir Manthan" /> </div>
+      <div className='flex items-center'> <img src={mandirLOGO} alt="Mandir Logo" className='h-10' /> UI Component Library</div>
+      <div className=''><img src={mandirTEXT} alt="Mandir Text" className='h-10' /> </div>
     </nav>
 
       <h2 className='mx-24 mt-12 font-giloryBold text-2xl text-gray-500 '>Form UI Elements</h2>
