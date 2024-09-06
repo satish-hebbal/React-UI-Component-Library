@@ -113,7 +113,7 @@ function App() {
         
       </div>
       <footer className='bg-yellow-100 h-14 flex justify-center px-24 items-center'> 
-      <img src="./src/assets/mandir2.png" className='h-10' alt="Mandir Manthan" />
+      <img src={mandirLOGO} alt="Mandir Logo" className='h-10' />
       <p className='font-gilorySemiBold text-orange-700'>Mandir Manthan Project</p>
       </footer>
     </>
