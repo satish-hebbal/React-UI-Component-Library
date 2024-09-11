@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-    <nav className=' bg-yellow-100 font-gilorySemiBold text-orange-700 h-14 flex justify-between px-24 items-center sticky top-0 z-50'> 
+    <nav className=' bg-gradient-to-b from-BG1 font-gilorySemiBold text-orange-700 h-16 flex justify-between px-24 items-center sticky top-0 z-50'> 
       <div className='flex items-center'> <img src={mandirLOGO} alt="Mandir Logo" className='h-10' /> UI Component Library</div>
       <div className=''><img src={mandirTEXT} alt="Mandir Text" className='h-10' /> </div>
     </nav>

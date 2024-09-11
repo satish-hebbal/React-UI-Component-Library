@@ -9,7 +9,7 @@ function TextBox() {
         </label> */}
             <input
                 // disabled="false" 
-                maxlength="1"   
+                maxlength="50"   
                 type="email"
                 id="email"
                 name="InputField"
