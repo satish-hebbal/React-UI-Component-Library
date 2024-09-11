@@ -2,7 +2,7 @@
 
 A sleek and customized React UI component library for Reusability, specially to make forms!
 
-Play around, visit.  <a href="[https://gotify-pro.netlify.app/](https://react-ui-component-library-six.vercel.app/)" target="_blank"> Mandir-Ui-Lib<a/>
+Play around, visit.  <a href="[https://react-ui-component-library-six.vercel.app/]" target="_blank"> Ui Components<a/>
 
 ## Components
 
